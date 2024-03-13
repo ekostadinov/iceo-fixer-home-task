@@ -1,0 +1,8 @@
+{
+  "success": false,
+  "error": {
+    "code": 505,
+    "type": "time_frame_too_long",
+    "info": "The Time-Frame you entered is too long. [max. 365 days]"
+  }
+}
